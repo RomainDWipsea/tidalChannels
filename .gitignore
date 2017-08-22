@@ -1,0 +1,9 @@
+Output/
+*.ps
+*.tif
+*.png
+*.pkl
+*.gz
+cudnn-8.0-linux-x64-v5.0-ga.tgz
+cudnn-8.0-linux-x64-v6.0.tgz
+*~
